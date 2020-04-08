@@ -1,5 +1,5 @@
 <?php
 
-header('Location: ../top/index.html');
+header('Location: ../project1/top/index.html');
 
 ?>
